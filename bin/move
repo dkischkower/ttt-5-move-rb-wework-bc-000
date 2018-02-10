@@ -8,5 +8,5 @@ board = [" "," "," "," "," "," "," "," "," "]
 puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 index = input_to_index(gets.strip)
-newBoard = move(board,index,"X")
-display_board(newBoard)
+#newBoard = move(board,index,"X")
+display_board(board)
