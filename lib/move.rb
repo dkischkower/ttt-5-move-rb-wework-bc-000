@@ -9,4 +9,9 @@ end
 # code your input_to_index and move method here!
 def input_to_index
   index = gets.to_i
+  index - 1
+end
+
+def move
+  
 end
